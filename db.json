@@ -1,0 +1,148 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Фильм 1",
+      "releaseDate": "2022-01-01",
+      "description": "Описание фильма 1",
+      "type": "фильм",
+      "year": 2021,
+      "team": {
+          "directors": ["Режиссер 3", "Режиссер 4"],
+          "actors": ["Актер 4", "Актер 5", "Актер 6"]
+        },
+        "images": [
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/a762037526.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/5f88cf8bd0.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/c8e7ad0d4e.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/975efa1783.png?w=877"
+        ]
+    },
+    {
+      "id": 2,
+      "title": "Фильм 2",
+      "releaseDate": "2022-02-01",
+      "description": "Описание фильма 2",
+      "type": "фильм",
+      "year": 2022,
+      "team": {
+          "directors": ["Режиссер 3", "Режиссер 4"],
+          "actors": ["Актер 4", "Актер 5", "Актер 6"]
+        },
+        "images": [
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/5f88cf8bd0.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/c8e7ad0d4e.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/a762037526.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/975efa1783.png?w=877"
+        ]
+    },
+    {
+      "id": 3,
+      "title": "Фильм 3",
+      "releaseDate": "2022-03-01",
+      "description": "Описание фильма 3",
+      "type": "фильм",
+      "year": 2023,
+      "team": {
+          "directors": ["Режиссер 3", "Режиссер 4"],
+          "actors": ["Актер 4", "Актер 5", "Актер 6"]
+        },
+        "images": [
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/975efa1783.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/c8e7ad0d4e.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/5f88cf8bd0.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/a762037526.png?w=877"
+          
+        ]
+    },
+    {
+      "id": 4,
+      "title": "Фильм 4",
+      "releaseDate": "2023-07-01",
+      "description": "Описание фильма 4",
+      "type": "фильм",
+      "year": 2023,
+      "team": {
+          "directors": ["Режиссер 5", "Режиссер 6"],
+          "actors": ["Актер 23", "Актер 55", "Актер 66"]
+        },
+        "images": [
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/c8e7ad0d4e.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/975efa1783.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/5f88cf8bd0.png?w=877",
+          "https://img.ixbt.site/live/images/original/20/28/05/2023/01/20/a762037526.png?w=877"
+          
+        ]
+    },
+    {
+      "id": 5,
+      "title": "Сериал 1",
+      "releaseDate": "2022-02-01",
+      "description": "Описание сериала 1",
+      "type": "сериал",
+      "year": 2020,
+      "team": {
+        "directors": ["Режиссер 3", "Режиссер 4"],
+        "actors": ["Актер 4", "Актер 5", "Актер 6"]
+      },
+      "images": [
+        "https://vintagemoviepostersforum.com/uploads/editor/qv/1r2q9rpjfug4.jpg",
+        "https://i.pinimg.com/originals/8c/a9/97/8ca997478669ea0c3aa49769a47ea1f1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfKyGpgTD1BXZFp3rfAh5EjXN6GcopbNQpeNCavAUNqgGrL7H5EgKpuzBnknRbICqxuY&usqp=CAU"
+      ]
+    },
+    {
+        "id": 6,
+        "title": "Сериал 2",
+        "releaseDate": "2010-02-01",
+        "description": "Описание сериала 2",
+        "type": "сериал",
+        "year": 2021,
+        "team": {
+            "directors": ["Режиссер 3", "Режиссер 4"],
+            "actors": ["Актер 4", "Актер 5", "Актер 6"]
+          },
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfKyGpgTD1BXZFp3rfAh5EjXN6GcopbNQpeNCavAUNqgGrL7H5EgKpuzBnknRbICqxuY&usqp=CAU",
+            "https://vintagemoviepostersforum.com/uploads/editor/qv/1r2q9rpjfug4.jpg",
+            "https://i.pinimg.com/originals/8c/a9/97/8ca997478669ea0c3aa49769a47ea1f1.jpg"
+        
+          ]
+      },
+      {
+        "id": 7,
+        "title": "Сериал 3",
+        "releaseDate": "2022-02-01",
+        "description": "Описание сериала 3",
+        "type": "сериал",
+        "year": 2010,
+        "team": {
+            "directors": ["Режиссер 3", "Режиссер 4"],
+            "actors": ["Актер 4", "Актер 5", "Актер 6"]
+          },
+          "images": [
+            "https://i.pinimg.com/originals/8c/a9/97/8ca997478669ea0c3aa49769a47ea1f1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfKyGpgTD1BXZFp3rfAh5EjXN6GcopbNQpeNCavAUNqgGrL7H5EgKpuzBnknRbICqxuY&usqp=CAU",
+            "https://vintagemoviepostersforum.com/uploads/editor/qv/1r2q9rpjfug4.jpg"
+            
+          ]
+      },
+      {
+        "id": 8,
+        "title": "Сериал 4",
+        "releaseDate": "2022-02-01",
+        "description": "Описание сериала 4",
+        "type": "сериал",
+        "year": 2012,
+        "team": {
+            "directors": ["Режиссер 3", "Режиссер 4"],
+            "actors": ["Актер 4", "Актер 5", "Актер 6"]
+          },
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfKyGpgTD1BXZFp3rfAh5EjXN6GcopbNQpeNCavAUNqgGrL7H5EgKpuzBnknRbICqxuY&usqp=CAU",
+            "https://i.pinimg.com/originals/8c/a9/97/8ca997478669ea0c3aa49769a47ea1f1.jpg",
+            "https://vintagemoviepostersforum.com/uploads/editor/qv/1r2q9rpjfug4.jpg"
+          ]
+      }
+  ]
+}
